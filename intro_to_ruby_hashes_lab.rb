@@ -3,6 +3,7 @@ def new_hash
 end
 
 def my_hash
+  sexy = {eggs: 2.99, ham: 4.99}
   # return a valid hash with any key/value pair of your choice
 end
 
