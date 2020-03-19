@@ -1,5 +1,5 @@
 def new_hash
-  sexy = Hash.new
+  sexy = Hash.new 
 end
 
 def my_hash
